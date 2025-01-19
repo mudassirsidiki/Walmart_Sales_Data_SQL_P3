@@ -1,0 +1,5 @@
+REQUIRED LIBRARIES THAT NEED TO BE IMPORTED
+
+1- Pandas (pip install pandas)
+2- psycopg2 (pip install psycopg2) (FOR POSTGRE SQL)
+3- alchemy (pip install alchemy)
